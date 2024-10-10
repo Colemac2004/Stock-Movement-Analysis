@@ -1,5 +1,5 @@
 # Stock-Movement-Analysis
-# This Project First Gets all Stocks/ETf's that File with the SEC
+## This Project First Gets all Stocks/ETf's that File with the SEC
 # Next it analyses the past 30 days Stock Movement for Each one
 # Out of All Stock if finds each stock that has had a Difference of 20% or greater for their high and low for the day
 # It then Records this to a Postgres Database with the ticker name, date, high,low, and percentage difference
